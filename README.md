@@ -1,5 +1,5 @@
 # game-programming-zombieland-platformer
-Platformer game programming, play on web browser at https://saraluk.itch.io/zombie-land-platformer 
+#### Platformer game programming, play on web browser at https://saraluk.itch.io/zombie-land-platformer 
 (used free game assets from https://www.gameart2d.com/free-graveyard-platformer-tileset.html)
 
 ### Title : Zombie Land
